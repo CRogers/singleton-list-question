@@ -1,0 +1,8 @@
+.stack-work/
+*.cabal
+*~
+out/
+.idea/
+*.iml
+cabal.config
+cabal-helper*
